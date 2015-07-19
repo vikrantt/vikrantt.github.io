@@ -1,0 +1,81 @@
+# jemdoc: menu{MENU}{index.html},showsource
+=Vikrant Singh Tomar ( विक्रांत सिंह तोमर )
+
+~~~
+{}{img_left}{pics/vikrant.jpg}{Vikrant Tomar}
+*Vikrant Singh Tomar*, Ph.D. Candidate \n
+[http://www.mcgill.ca/ece/ Department of Electrical and Computer Engineering]\n
+[http://www.mcgill.ca/ McGill University]\n\n
+Advisor: [http://www.ece.mcgill.ca/~rrose1/ Prof. Richard Rose]
+~~~
+
+== A Short Vita
+
+I am a PhD Candidate in the Department of Electrical and Computer Engineering, at McGill University, Montreal, Canada. I am associated with the speech and language research group supervised by [http://www.ece.mcgill.ca/~rrose1/ Prof. Richard Rose]. My interests are in the general area of speech and language processing, particularly *manifold* based and *neural networks* based techniques for automatic speech recognition.
+
+Prior to joining McGill, I worked as a research fellow in the Dept. of Electrical Engineering at the [http://www.iitb.ac.in Indian Institute of Technology Bombay (IIT B), Mumbai, India]. I worked with the [https://www.ee.iitb.ac.in/~infonet/ Information Networks laboratory]. I was primarily associated with the TTSL IIT Bombay Center of Excellence in Telecommuncations (TICET), one of the six Telecom Centers Of Excellence (TCOE) set up by the Department of Telecommuncations (DoT), Govt. of India.
+
+I earned my B.Tech. in Information and Communication Technology (ICT) from [http://www.daiict.ac.in Dhirubhai Ambani Insitute of Information and Communication Technology (DA-IICT)], Gandhinagar, Gujarat, India in May 2008. During my stay at DA-IICT, I was affiliated with Communications and Signal Processing (CSP), NextGenWireless and Speech Communications research groups. I also served as the vice chair-person of IEEE student branch, DA-IICT for 2007-08.
+
+
+== Education
+- Ph.D., Electrical and Computer Engineering, [http://www.mcgill.ca McGill University], Montreal, Canada,
+  Pursuing
+- M.Eng., Electrical and Computer Engineering, [http://www.mcgill.ca McGill University], Montreal, Canada,
+  Dec 2010
+- B.Tech.,
+  [http://www.daiict.ac.in  Dhirubhai Ambani Insitute of Information and Communication Technology (DA-IICT)], Gandhinagar, Gujarat, India, May 2008
+
+== Research Interests
+- Speech and language processing
+- Automatic speech recognition
+- Manifold leanring based methods for feature space analysis for robust speech recognition
+- Deep neural networks for acoustic modeling
+
+*Please refer to my recent [publications.html publications] for more details about my current area of work.*
+
+== Awards and Grants
+- J. W. McConnell Memorial Fellowship (McGill University), 2012
+- [http://www.mcgill.ca/engineering/current-students/graduate-students/funding/meda McGill Engineering Doctoral Award], 2011 - 2013
+- [http://www.mcgill.ca/engineering/current-students/graduate-students/funding/meda/named-fellowships/stauffer Joseph S. Stauffer Fellowship] (McGill University), 2011
+- [http://www.mcgill.ca/engineering/current-students/graduate-students/funding/meda/named-fellowships/kerr Sheryl & David Kerr Engineering Graduate Fellowship] (McGill University), 2011
+- [http://www.mcgill.ca/engineering/current-students/graduate-students/funding/meita McGill Engineering International Doctoral Award], 2011 - 2013
+- [http://www.dorabjitatatrust.org/id/72/J.N.%20Tata%20Endowment%20for%20the%20Higher%20Education%20of%20Indians/ JNTT TATA Scholar], 2009
+- [http://www.isca-speech.org/iscaweb/index.php/grants International Speech Communication Association Conference Grant], 2008
+
+#== Work Experience
+#~~~
+#{}{table}{Workex}
+#Nuance Comm. Inc. \n Montreal, QC, Canada | Research Scientist  | Aug 2013 -- Feb 2014 ||
+#McGill University \n Montreal, QC, Canada | Teaching Assistant  | Fundamentals of Signals and Systems #(2012, 2011, 2010); Telcom. Networks Lab. (2012, 2010); Probability and Random Signals (2012)||
+#~~~
+
+
+== Contact
+~~~
+{ContactQR.}{img_left}{pics/qrcode.png}{Vikrant Tomar}
+~~~
+
+~~~
+{Email.}{img_left}{pics/email.jpg}{Vikrant Tomar}
+~~~
+
+
+~~~
+{}{raw}
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=4218365;
+var sc_invisible=1;
+var sc_security="bd1a538c";
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="vBulletin tracker"
+href="http://www.statcounter.com/vbulletin/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/4218365/0/bd1a538c/1/"
+alt="vBulletin tracker" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+~~~

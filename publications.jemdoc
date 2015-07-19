@@ -1,0 +1,65 @@
+# jemdoc: menu{MENU}{publications.html},showsource,title{Publications}
+=[index.html Vikrant Singh Tomar ( विक्रांत सिंह तोमर )]
+
+
+~~~
+Please note that some of the published papers may be copyrighted by the respective publishing organizations like IEEE, Elsevier, and Wiley etc. as cited. You are advised to contact the publishing organization for final versions of the papers.
+~~~
+
+== Refereed Publications
+
+- *Vikrant Singh Tomar* and Richard C. Rose, "[http://www.ece.mcgill.ca/~vtomar/Publications/Interspeech2014-MRDNN.pdf Manifold Regularized Deep Neural Networks]", InterSpeech 2014, Singapore.
+
+- *Vikrant Singh Tomar* and Richard C. Rose, "[http://www.ece.mcgill.ca/~vtomar/Publications/TASLP-Tomar-Rose2014.pdf A family of discriminative manifold learning algorithms and their application to speech recognition]", IEEE\/ACM Transactions on Audio, Speech and Language Processing, vol. 22, no. 1, Jan 2014. \n
+DOI: 10.1109/TASLP.2013.2286906
+
+- *Vikrant Singh Tomar* and Richard C. Rose, "[http://www.ece.mcgill.ca/~vtomar/Publications/Interspeech2013-CPDA-LSH.pdf Locality Sensitive Hashing for Fast Computation of Correlational Manifold Learning based Feature space Transformations]", InterSpeech 2013, Lyon, France.
+
+- *Vikrant Singh Tomar* and Richard C. Rose, "[http://www.ece.mcgill.ca/~vtomar/Publications/ICASSP2013-LPDA-LSH.pdf Efficient manifold learning for speech Recognition using locality sensitive hashing]", ICASSP 2013, Vancouver, Canada.
+
+- *Vikrant Singh Tomar* and Richard C. Rose, "[http://www.ece.mcgill.ca/~vtomar/Publications/ICASSP2013-NLPDA.pdf Noise aware manifold learning for robust speech recognition]", ICASSP 2013, Vancouver, Canada.
+
+- *Vikrant Singh Tomar* and Richard C. Rose, "[http://www.ece.mcgill.ca/~vtomar/Publications/Interspeech12-CPDA.pdf A Correlational Discriminant Approach to Feature Extraction for Robust Speech Recognition]", InterSpeech 2012, Portland, Oregon, USA.
+
+- *Vikrant Singh Tomar* and Richard C. Rose, "[http://www.ece.mcgill.ca/~vtomar/Publications/ISSPA12-LPDA.pdf Application of a Locality Preserving Discriminant Analysis Approach to ASR]",The 11th International Conference on Information Sciences, Signal Processing and their Applications (ISSPA) 2012, Montreal, QC, Canada. \n [http://www.ece.mcgill.ca/~vtomar/Publications/ISSPA12-presentation.pdf download presentation .pdf]
+
+- *Vikrant Tomar* and H. A. Patil, "[http://www.ece.mcgill.ca/~vtomar/Publications/interspeech08.pdf On the Development of Variable length Teager Energy Operator (VTEO)]", Interspeech 2008, Brisbane, Australia, pp.1056 - 1059.
+
+- H. Venkataraman, D. Gandhi, and *Vikrant Tomar*," [http://www.ece.mcgill.ca/~vtomar/Publications/2013Journal_MMSP_LTE.pdf Multi-hop Multi-band Intelligent Relay-Based Architecture for LTE-Advanced Multi-hop Wireless Cellular Networks]", Springer Wireless Personal Communications, 2013 \n
+DOI 10.1007/s11277-013-1352-0 
+
+- *Vikrant Tomar*, H. Asnani, A. Karandikar, and P. Kapadia, "[http://www.ece.mcgill.ca/~vtomar/Publications/NCC2010-SMS_TrafficEngg.pdf Traffic Analysis of a Short Message Service Network]", NCC 2010 
+
+- *Vikrant Tomar*, H. Asnani, A. Karandikar, V. Chander, S. Agrawal, and P. Kapadia, "[http://www.ece.mcgill.ca/~vtomar/Publications/NCC2010-SMS_SocialNet.pdf Social Network Analysis of the Short Message Service]", NCC 2010 , 29-31 Jan. 2010 \n
+DOI: 10.1109/NCC.2010.5430162
+
+- *Vikrant Tomar*, D. Gandhi and C. Vijaykumar, "[http://www.ece.mcgill.ca/~vtomar/Publications/tencon08.pdf Digital Signal Processing for Gene Prediction]", TENCON 2008 - 23rd IEEE Region 10 Conference, 19-21 Nov. 2008, Hydrabad, India, 2008. \n
+DOI: 10.1109/TENCON.2008.4766648
+
+
+== Other Publications/Reports
+- *Vikrant Singh Tomar*, "[http://www.ece.mcgill.ca/~vtomar/Reports/Speaker_Variability_ASR.pdf Speaker Variability in Automatic Speech Recognition]"
+
+- *Vikrant Singh Tomar*, "[http://www.ece.mcgill.ca/~vtomar/Reports/reverb_kurtosis_report.pdf Blind Dereverberation using Maximum Kurtosis of the Speech Residual]" [http://www.ece.mcgill.ca/~vtomar/Reports/reverb_kurtosis_ppt.pdf download presentation .pdf]
+
+- *Vikrant Singh Tomar*, "[http://www.ece.mcgill.ca/~vtomar/Reports/ML_report.pdf Discriminant Feature Space Transformations for Automatic Speech Recognition]" [http://www.ece.mcgill.ca/~vtomar/Reports/ML_ppt.pdf download presentation .pdf]
+
+
+~~~
+{}{raw}
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=4218365;
+var sc_invisible=1;
+var sc_security="bd1a538c";
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="vBulletin tracker"
+href="http://www.statcounter.com/vbulletin/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/4218365/0/bd1a538c/1/"
+alt="vBulletin tracker" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+~~~
