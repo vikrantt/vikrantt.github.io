@@ -9,27 +9,25 @@ Founder and CTO, [http://www.fluent.ai Fluent.ai]\n
 
 == A Short Vita
 
-I am the founder and CTO of [http://www.fluent.ai Fluent.ai]. At Fluent.ai, we are interested in developing machine learning techniques for next generation voice user interfaces. We are building end-to-end spken langauge understanding systems. Unlike conventional speech recognition systems (speech --> text --> intent), these models do not require the intermediate text step are able able to directly go from speech to intent, much like humans do. Please see the website for more details.
+I am the founder and CTO of [http://www.fluent.ai Fluent.ai]. At Fluent.ai, we are interested in developing machine learning techniques for next generation voice user interfaces. We are building end-to-end spoken language understanding systems. Unlike conventional speech recognition systems (speech --> text --> intent), these models do not require the intermediate text step are able able to directly go from speech to intent, much like humans do. Please see [http://www.fluent.ai the website] for more details.
 
-My personal research interests are in the general area of speech and language processing, particularly *manifold* based and *neural networks* based techniques for automatic speech recognition. I completed my PhD from the Department of Electrical and Computer Engineering, at McGill University, Montreal, Canada. I was associated with the speech and language research group supervised by [http://www.ece.mcgill.ca/~rrose1/ Prof. Richard Rose].
+My personal research interests are in the general area of speech and language processing, particularly *manifold* based and *neural networks* based techniques for automatic speech recognition. I completed my PhD from the Department of Electrical and Computer Engineering, at McGill University, Montreal, Canada. I was associated with the speech and language research group supervised by [https://research.google.com/pubs/104847.html Dr. Richard Rose] (now at Google).
 
-Prior to joining McGill, I worked as a research fellow in the Dept. of Electrical Engineering at the [http://www.iitb.ac.in Indian Institute of Technology Bombay (IIT B), Mumbai, India]. I worked with the [https://www.ee.iitb.ac.in/~infonet/ Information Networks laboratory]. I was primarily associated with the TTSL IIT Bombay Center of Excellence in Telecommuncations (TICET), one of the six Telecom Centers Of Excellence (TCOE) set up by the Department of Telecommuncations (DoT), Govt. of India.
+Prior to joining McGill, I worked as a research fellow in the Dept. of Electrical Engineering at the [http://www.iitb.ac.in Indian Institute of Technology Bombay (IIT B), Mumbai, India]. I worked with the [https://www.ee.iitb.ac.in/~infonet/ Information Networks laboratory]. I was primarily associated with the TTSL IIT Bombay Center of Excellence in Telecommunications (TICET), one of the six Telecom Centers Of Excellence (TCOE) set up by the Department of Telecommunications (DoT), Govt. of India.
 
-I earned my B.Tech. in Information and Communication Technology (ICT) from [http://www.daiict.ac.in Dhirubhai Ambani Insitute of Information and Communication Technology (DA-IICT)], Gandhinagar, Gujarat, India in May 2008. During my stay at DA-IICT, I was affiliated with Communications and Signal Processing (CSP), NextGenWireless and Speech Communications research groups. I also served as the vice chair-person of IEEE student branch, DA-IICT for 2007-08.
+I earned my B.Tech. in Information and Communication Technology (ICT) from [http://www.daiict.ac.in Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)], Gandhinagar, Gujarat, India in May 2008. During my stay at DA-IICT, I was affiliated with Communications and Signal Processing (CSP), NextGenWireless and Speech Communications research groups. I also served as the vice chair-person of IEEE student branch, DA-IICT for 2007-08.
 
 
 == Education
 - Ph.D., Electrical and Computer Engineering, [http://www.mcgill.ca McGill University], Montreal, Canada,
   2015
-- M.Eng., Electrical and Computer Engineering, [http://www.mcgill.ca McGill University], Montreal, Canada,
-  Dec 2010
 - B.Tech.,
-  [http://www.daiict.ac.in  Dhirubhai Ambani Insitute of Information and Communication Technology (DA-IICT)], Gandhinagar, Gujarat, India, May 2008
+  [http://www.daiict.ac.in  Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)], Gandhinagar, Gujarat, India, May 2008
 
 == Research Interests
 - Speech and language processing
 - Automatic speech recognition
-- Manifold leanring based methods for feature space analysis for robust speech recognition
+- Manifold learning based methods for feature space analysis for robust speech recognition
 - Deep neural networks for acoustic modeling
 
 *Please refer to my recent [publications.html publications] for more details about my current area of work.*
