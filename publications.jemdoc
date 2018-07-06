@@ -11,7 +11,11 @@ Vikrant Singh Tomar, McGill University, "[Publications/Vikrant_PhD_Thesis.pdf Di
 
 == Refereed Publications
 
-- Vincent Renkens, *Vikrant Singh Tomar* and Hugo Van Hammes, "[Publications/2016_SLT_Renkens.pdf Incrementally learn the relevance of words in a dictionary for spoken language acquisition]", accepted in IEEE Spoken Language Technology 2016
+- Loren Lugosch and *Vikrant Singh Tomar*, "Tone recognition using lifters and CTC", ICASSP 2018
+
+- Sam Myer and *Vikrant Singh Tomar*, "Efficient keyword spotting using time delay neural networks", ICASSP 2018
+
+- Vincent Renkens, *Vikrant Singh Tomar* and Hugo Van Hammes, "[Publications/2016_SLT_Renkens.pdf Incrementally learn the relevance of words in a dictionary for spoken language acquisition]", IEEE Spoken Language Technology 2016
 
 - *Vikrant Singh Tomar* and Richard C. Rose, "[Publications/arxiv_1606.05925v1_MRDNN.pdf
 Graph based manifold regularized deep neural networks for automatic speech recognition]", arXiv:1606.05925, 2016 [https://github.com/vikrantt/MRDNN-Py Code on Github]
