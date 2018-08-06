@@ -24,6 +24,14 @@ I earned my B.Tech. in Information and Communication Technology (ICT) from [http
 - B.Tech.,
   [http://www.daiict.ac.in  Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)], Gandhinagar, Gujarat, India, May 2008
 
+
+== Work Experience Summary
+- Fluent.ai Inc., Montreal, QC, Canada | Founder and CTO  | May 2015 -- Present
+- Nuance Comm. Inc., Montreal, QC, Canada | Research Scientist  | Sept 2013 -- Feb 2014
+- Vestec Inc., Waterloo, ON, Canada | Research Scientist Consultant | May 2012 -- Dec 2012
+- McGill University, Montreal, QC, Canada | Teaching Assistant and Lecturer | 2010 - 2013 (various)
+- IIT Bombay, Mumbai India | Research Scholar | July 2008 - Dec 2010
+
 == Research Interests
 - Speech and language processing
 - Automatic speech recognition
@@ -31,6 +39,7 @@ I earned my B.Tech. in Information and Communication Technology (ICT) from [http
 - Deep neural networks for acoustic modeling
 
 *Please refer to my recent [publications.html publications] for more details about my current area of work.*
+
 
 == Awards and Grants
 - J. W. McConnell Memorial Fellowship (McGill University), 2012
@@ -41,42 +50,44 @@ I earned my B.Tech. in Information and Communication Technology (ICT) from [http
 - [http://www.dorabjitatatrust.org/id/72/J.N.%20Tata%20Endowment%20for%20the%20Higher%20Education%20of%20Indians/ JNTT TATA Scholar], 2009
 - [http://www.isca-speech.org/iscaweb/index.php/grants International Speech Communication Association Conference Grant], 2008
 
-== Talks etc.
-- Startup Fest Montreal, Human Computer Interaction Panel, 2016
-- AIWTB (AT with the best) Conference : Deep learning for speech recognition, 2016
-- Startup Fest Montreal. AI Fest Talk : Progress and problems in speech recognition, 2017
-- Oracle Open World. San Francisco, 2017
-- Toronto Tech Summit. Presentation: Speech recognition present and future presentation; and panel: How AI is disrupting CX, 2018
-
-== Reviews etc.
-- IEEE Transactions on Image Processing
-- IEEE/ACM Transactions on Audio, Speech, and Language Processing
-- IEEE Signal Processing Letters
-- ISCA Interspeech Conferences
-- IEEE ICASSP Conferences
-- IEEE Symposium on Industrial Electronics and Applications
-- Elsevier Neurocomputing Journal
-- Elsevier Speech Communications Journal
-- MDPI Mathematical and Computational Applications
-- MDPI Entropy
-- MDPI Computers
-- MDPI Applied Sciences
-
-
-
-#== Work Experience
-#~~~
-#{}{table}{Workex}
-#Fluent.ai \n Montreal, QC, Canada | Cofounder and Tech Lead  | May 2015 -- Present ||
-#Nuance Comm. Inc. \n Montreal, QC, Canada | Research Scientist  | Aug 2013 -- Feb 2014 ||
-#McGill University \n Montreal, QC, Canada | Teaching Assistant  | Fundamentals of Signals and Systems #(2012, 2011, 2010); Telcom. Networks Lab. (2012, 2010); Probability and Random Signals (2012)||
-#~~~
+# == Talks etc.
+# - Startup Fest Montreal, Human Computer Interaction Panel, 2016
+# - AIWTB (AT with the best) Conference : Deep learning for speech recognition, 2016
+# - Startup Fest Montreal. AI Fest Talk : Progress and problems in speech recognition, 2017
+# - Oracle Open World. San Francisco, 2017
+# - Toronto Tech Summit. Presentation: Speech recognition present and future presentation; and panel: How AI is disrupting CX, 2018
+#
+# == Reviews etc.
+# - IEEE Transactions on Image Processing
+# - IEEE/ACM Transactions on Audio, Speech, and Language Processing
+# - IEEE Signal Processing Letters
+# - ISCA Interspeech Conferences
+# - IEEE ICASSP Conferences
+# - IEEE Symposium on Industrial Electronics and Applications
+# - Elsevier Neurocomputing Journal
+# - Elsevier Speech Communications Journal
+# - MDPI Mathematical and Computational Applications
+# - MDPI Entropy
+# - MDPI Computers
+# - MDPI Applied Sciences
 
 
-#== Contact
-#~~~
+# == Work Experience
+# ~~~
+# {}{table}{Workex}
+# Fluent.ai \n Montreal, QC, Canada | Founder and CTO  | May 2015 -- Present ||
+# Nuance Comm. Inc. \n Montreal, QC, Canada | Research Scientist  | Sept 2013 -- Feb 2014 \n Investigated applications of deep neural networks for noise-robust speech recognition ||
+# Vestec Inc. \n Waterloo, ON, Canada | Research Scientist Consultant | May 2012 -- Dec. 2012 \n Design and development of a deep neural networks based speech recognition system ||
+# McGill University \n Montreal, QC, Canada | Teaching Assistant  | Fundamentals of Signals and Systems #(2012, 2011, 2010); Telcom. Networks Lab. (2012, 2010); Probability and Random Signals (2012)||
+# ~~~
+
+
+== Contact
+~~~
+- [https://www.linkedin.com/in/vikrantt/ LinkedIn]
+- [http://twitter.com/vikrantt Twitter]
 #{ContactQR.}{img_left}{pics/qrcode.png}{Vikrant Tomar}
-#~~~
+~~~
 
 #~~~
 #{Email.}{img_left}{pics/email.jpg}{Vikrant Tomar}
