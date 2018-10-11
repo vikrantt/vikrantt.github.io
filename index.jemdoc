@@ -82,12 +82,12 @@ I earned my B.Tech. in Information and Communication Technology (ICT) from [http
 # ~~~
 
 
-== Contact
-~~~
-- [https://www.linkedin.com/in/vikrantt/ LinkedIn]
-- [http://twitter.com/vikrantt Twitter]
+#== Contact
+#~~~
+#- [https://www.linkedin.com/in/vikrantt/ LinkedIn]
+#- [http://twitter.com/vikrantt Twitter]
 #{ContactQR.}{img_left}{pics/qrcode.png}{Vikrant Tomar}
-~~~
+#~~~
 
 #~~~
 #{Email.}{img_left}{pics/email.jpg}{Vikrant Tomar}
