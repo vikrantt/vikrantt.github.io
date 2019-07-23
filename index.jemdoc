@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html},showsource
-=Vikrant Singh Tomar ( विक्रांत सिंह तोमर )
+=Vikrant Singh Tomar // विक्रांत सिंह तोमर
 
 ~~~
 {}{img_left}{pics/vikrant.jpg}{Vikrant Tomar}
@@ -11,7 +11,7 @@ Founder and CTO, [http://www.fluent.ai Fluent.ai]\n
 
 I am the founder and CTO of [http://www.fluent.ai Fluent.ai]. At Fluent.ai, we are interested in developing machine learning techniques for next generation voice user interfaces. We are building end-to-end spoken language understanding systems. Unlike conventional speech recognition systems (speech --> text --> intent), these models do not require the intermediate text step are able able to directly go from speech to intent, much like humans do. Please see [http://www.fluent.ai the website] for more details.
 
-My research interests are in the general area of speech and language understanding, particularly *manifold* based and *neural networks* based techniques for automatic speech recognition. Recently I have moved towards ASR-free speech understanding models. I completed my PhD from the Department of Electrical and Computer Engineering, at McGill University, Montreal, Canada. I was associated with the speech and language research group supervised by [https://research.google.com/pubs/104847.html Dr. Richard Rose] (now at Google).
+My research interests are in the general area of speech and language understanding, particularly *manifold* based and *neural networks* based techniques for automatic speech recognition. I completed my PhD from the Department of Electrical and Computer Engineering, at McGill University, Montreal, Canada. I was associated with the speech and language research group supervised by [https://research.google.com/pubs/104847.html Dr. Richard Rose] (now at Google).
 
 Prior to joining McGill, I worked as a research fellow in the Dept. of Electrical Engineering at the [http://www.iitb.ac.in Indian Institute of Technology Bombay (IIT B), Mumbai, India]. I worked with the [https://www.ee.iitb.ac.in/~infonet/ Information Networks laboratory]. I was primarily associated with the TTSL IIT Bombay Center of Excellence in Telecommunications (TICET), one of the six Telecom Centers Of Excellence (TCOE) set up by the Department of Telecommunications (DoT), Govt. of India.
 
